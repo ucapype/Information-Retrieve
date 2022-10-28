@@ -1,0 +1,22 @@
+\begin{thebibliography}{3}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Kadhim(2019)}]{kadhim2019term}
+Ammar~Ismael Kadhim. 2019.
+\newblock Term weighting for feature extraction on twitter: A comparison
+  between bm25 and tf-idf.
+\newblock In \emph{2019 international conference on advanced science and
+  engineering (ICOASE)}, pages 124--128. IEEE.
+
+\bibitem[{Lavi-Rotbain and Arnon(2022)}]{lavi2022learnability}
+Ori Lavi-Rotbain and Inbal Arnon. 2022.
+\newblock The learnability consequences of zipfian distributions in language.
+\newblock \emph{Cognition}, 223:105038.
+
+\bibitem[{Linders and Louwerse(2022)}]{linders2022zipf}
+Guido~M Linders and Max~M Louwerse. 2022.
+\newblock Zipf’s law revisited: Spoken dialog, linguistic units, parameters,
+  and the principle of least effort.
+\newblock \emph{Psychonomic Bulletin \& Review}, pages 1--25.
+
+\end{thebibliography}
